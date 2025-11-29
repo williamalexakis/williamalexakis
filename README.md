@@ -1,16 +1,18 @@
-## Hi there 👋
+# William Alexakis
 
-<!--
-**williamalexakis/williamalexakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems programming, interpreters, and backend engineering.
 
-Here are some ideas to get you started:
+### Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,git,linux,bash,cmake,django,html,css,js" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links
+<p align="left">
+  <a href="https://williamalexakis.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge" />
+  </a>
+  <a href="mailto:w.alexakis@icloud.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge" />
+  </a>
+</p>
