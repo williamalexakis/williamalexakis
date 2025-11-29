@@ -1,6 +1,6 @@
 # William Alexakis
 
-Systems programming, interpreters, and backend engineering.
+#### Systems programming, interpreters, and backend engineering.
 
 ### Tech Stack
 <p align="left">
@@ -8,11 +8,11 @@ Systems programming, interpreters, and backend engineering.
 </p>
 
 ### Links
-<p align="left">
-  <a href="https://williamalexakis.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge" />
+<p align="left" style="display:flex; gap:10px;">
+  <a href="https://williamalexakis.com" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/Portfolio-4B6A9B?style=for-the-badge&logo=gnome-terminal&logoColor=white" />
   </a>
-  <a href="mailto:w.alexakis@icloud.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge" />
+  <a href="mailto:w.alexakis@icloud.com" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/Email-4B6A9B?style=for-the-badge&logo=minutemailer&logoColor=white" />
   </a>
 </p>
