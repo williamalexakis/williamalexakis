@@ -1,6 +1,6 @@
 # William Alexakis
 
-### Systems programming, interpreters, and backend engineering.
+### Systems programming, language design, and backend engineering.
 
 ### Tech Stack
 <p align="left">
