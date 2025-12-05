@@ -13,7 +13,7 @@
 - **[StCats Ops | A full-stack internal school platform](https://github.com/williamalexakis/stcats-ops)**
 
 ### Currently
-**Learning Rust; looking into distributed systems and OS design.**
+**Learning Rust; looking into distributed systems.**
 
 ### Contact
 [![Email Badge](https://img.shields.io/badge/Email-4B6A9B?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:w.alexakis@icloud.com)
